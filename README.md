@@ -25,7 +25,7 @@ To test the code yourself you should:
 - Clone the repository: 
 
   ```git clone https://github.com/pythonlessons/YOLOv3-object-detection-tutorial.git
-  git clone https://github.com/
+  git clone https://github.com/exarchou/YOLO-Object-Recognition
   ```
 
 - Download YOLO pretrained weights:
