@@ -173,7 +173,7 @@ class YOLO(object):
 
 if __name__ == "__main__":
 
-	# Initialize YOLO model
+    # Initialize YOLO model
     yolo = YOLO()
 
     # Compute FPS
