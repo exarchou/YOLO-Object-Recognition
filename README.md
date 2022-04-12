@@ -54,4 +54,4 @@ To use tensorflow-gpu, you should have installed cuDNN: https://www.tensorflow.o
 
 ### Authors
 
-[Dimitrios-Marios Exarchou](https://github.com/exarchou) 
+[Dimitris Exarchou](https://github.com/exarchou) 
